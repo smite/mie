@@ -1,0 +1,16 @@
+*.diff
+*~
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.end
+*.log
+*.out
+*.pdf
+*.toc
+*Notes.bib
+*.fig
+*.mat
+*.zip
+*.mex*

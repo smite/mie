@@ -1,0 +1,19 @@
+Mie scattering package for Matlab
+Ville Bergholm 2001-2015
+
+
+Changelog
+=========
+
+
+Version 1.2, released 2015-???
+- contract.cpp updated to modern C++.
+- Some code beautification.
+
+
+Version 1.1, released 2008-03-28
+- Improved documentation, added references, added this README file.
+
+
+Version 1.0, released 2002-06-10
+- Original release.
